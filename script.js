@@ -1,2 +1,2 @@
-let yourArray = ["Jyothi" , 22, true, "abc@gmail.com", "passed"]
-console.log(yourArray.length)
+let yourArray = ["Jyothi" , 22, true, 100, "passed"]
+
